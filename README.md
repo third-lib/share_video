@@ -30,7 +30,7 @@
 ###  <a name="java"></a>Java
 
 *   黑马19期基础班+就业班：一个 iOS 和 OS X 动画库，可以方便地实现由物理效果的交互。[官网](https://pan.baidu.com/s/1H9Vqc7_cX55IKo3SRSA-Mw) 密码: d7hd
-*   实践Java高并发程序设计：可以在 iOS 上方便地构建高级自定义动画。[官网](https://pan.baidu.com/s/1Sv6Oud4BakPrReQ5n2J6QA) 密码: ghi4
+*   实践Java高并发程序设计。[官网](https://pan.baidu.com/s/1Sv6Oud4BakPrReQ5n2J6QA) 密码: ghi4
 *   Java SSM淘淘商城12天电商项目。[下载地址](https://pan.baidu.com/s/1JBVx9RFMDTTPcQ3W5-oiww) 密码: i3vp
 *   大型SpringMVC，Mybatis，Redis，Solr，Nginx，SSM分布式电商项目视频教程。[下载地址](https://pan.baidu.com/s/15ABRXFP82AsOUakz_rHEOw) 密码: h3if
 *   Java企业级电商项目架构演进之路 Tomcat集群与Redis分布式。[下载地址](https://pan.baidu.com/s/1Nyhz8IOVFmPx8GBRfdaGfQ) 密码: 8p96
@@ -65,8 +65,8 @@
 ###  <a name="python"></a>python
 *   网易云python。[下载地址](https://pan.baidu.com/s/1F54ormV-ReLdgHXIczQ7AQ) 密码: 6y4m
 *   Python3数据科学入门与实战。[下载地址](https://pan.baidu.com/s/1UCKQTgGjP637eAOAPz6vgg) 密码: rapu
-*   Python接口测试框架实战与自动化进阶。[下载地址](https://pan.baidu.com/s/1OiwOQMK-56Hwjqv_crfAsg) 密码: 574u
-*   全网最热Python3入门+进阶 更快上手实际开发。[下载地址](https://pan.baidu.com/s/1qwLAaUpAyFkJE4ftoIErHg) 密码: 72bs
+*   Python接口测试框架实战与自动化进阶。[下载地址](https://pan.baidu.com/s/1OiwOQMK-56Hwjqv_crfAsg) 密码: 574u   
+*   全网最热Python3入门+进阶 更快上手实际开发。[下载地址](https://pan.baidu.com/s/1i34GY0Yubz4XkJMGbXPXZQ) 密码: 3ujf
 *   Python前后端分离开发Vue+Django REST framework实战。[下载地址](https://pan.baidu.com/s/1jwxcPvLtTbfimO0_ux4urQ) 密码: igrq
 *   Python Flask 构建微电影视频网站。[下载地址](https://pan.baidu.com/s/1TfAi45RAfA0lFwS-qMXssg) 密码: gmp4
 *   Python操作三大主流数据库。[下载地址](https://pan.baidu.com/s/131hz6gjeTeRTJnI6FbILZg) 密码: 87ci
