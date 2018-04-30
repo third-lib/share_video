@@ -2,7 +2,7 @@
 资源从网上长期收集整理而来，方便冥冥之中寻觅各种学习视频的同伴提供一个聚集地。如有任何问题，请联系QQ:1213423761   
 
 ### 2018-04-30 视频更新列表   
-*   1. 系统学习docker 践行DevOps [官网](https://pan.baidu.com/s/1hRp7dl4QtfCl4phXOIgxqQ) 密码: 69ki   
+*   1.系统学习docker 践行DevOps [官网](https://pan.baidu.com/s/1hRp7dl4QtfCl4phXOIgxqQ) 密码: 69ki   
 *   2.易语言-猪啵啵易语言第三期视频教程 [官网](https://pan.baidu.com/s/1KT08528m1MUF3h1_rZMfKQ) 密码: u9ah   
 *   3.微信小游戏入门与实战 刷爆朋友圈 [官网](https://pan.baidu.com/s/1akcapasiTb65eH9ErZkCkQ) 密码: jtss
 *   4.知乎大神萧井陌WEB前端培训班 [官网](https://pan.baidu.com/s/12JMw3jMZ5Lcjdm3LecTf7Q) 密码: a549
@@ -73,7 +73,7 @@
 *   PHP秒杀系统 高并发高性能的极致挑战。[下载地址](https://pan.baidu.com/s/1SWI2wZVwdD_1fWwN5GzEIQ) 密码: seij
 *   PHP开发高可用高安全App后端。[下载地址](https://pan.baidu.com/s/1V9Ef5KtE-vSLGpyWWYhc4w) 密码: c8v7
 *   360大牛带你横扫PHP职场 全面解读PHP面试。[下载地址](https://pan.baidu.com/s/1Z97ugmf0LKRpccTH7RfIWA) 密码: jdbq
-*   高性能的 PHP API 接口开发。[下载地址](https://pan.baidu.com/s/1glpqHVzPsSb46Rg1TM9P9Q) 密码: 8k69
+*   高性能的 PHP API 接口开发。[下载地址](https://pan.baidu.com/s/1glpqHVzPsSb46Rg1TM9P9Q) 密码: 8k69
 *   Laravel 快速开发简书。[下载地址](https://pan.baidu.com/s/1_QgC9rJd0NKZrtu7c4cO7g) 密码: jq7v
 *   ThinkPHP 5.0开发微信小程序商场打通全栈项目架构。[下载地址](https://pan.baidu.com/s/1_999mZt0Bjj6j3adqLEmzQ) 密码: 4mys
 *   ThinkPHP5.0正式版第二季：实战开发企业站。[下载地址](https://pan.baidu.com/s/1St750eUJtp67xjpg2t71bA) 密码: 9kdu
@@ -178,7 +178,7 @@
 ###  <a name="wechat"></a>微信小程序
 *   微信小程序开发视频教程整理。[下载地址](https://pan.baidu.com/s/1ABimMWZpU6nDjKv6xPG2pw) 密码: 763i
 *   微信小程序入门与实战 常用组件API开发技巧项目实战。[下载地址](https://pan.baidu.com/s/16AiwHak6ILNchDoEAn0sSQ) 密码: m1sa
-*   微信小游戏入门与实战 刷爆朋友圈 [官网](https://pan.baidu.com/s/1akcapasiTb65eH9ErZkCkQ) 密码: jtss
+*   微信小游戏入门与实战 刷爆朋友圈 [官网](https://pan.baidu.com/s/1akcapasiTb65eH9ErZkCkQ) 密码: jtss
 *   
 
 ###  <a name="test"></a>测试
@@ -187,7 +187,7 @@
 ###  <a name="devops"></a>运维
 *   Mysql DBA 运维。[下载地址](https://pan.baidu.com/s/18nL9pPV5tjXMbn3_BxPA6w) 密码: grw4
 *   shell高级【2016最新】。[下载地址](https://pan.baidu.com/s/1qt8AGhsnujvMbeQAi5p4Sw )密码: px3n
-*   系统学习docker 践行DevOps [官网](https://pan.baidu.com/s/1hRp7dl4QtfCl4phXOIgxqQ) 密码: 69ki   
+*   系统学习docker践行DevOps [官网](https://pan.baidu.com/s/1hRp7dl4QtfCl4phXOIgxqQ) 密码: 69ki   
 
 ###  <a name="datastructure"></a>算法、数据结构
 *   看得见的算法 7个经典应用诠释算法精髓。[下载地址](https://pan.baidu.com/s/1CwaKFqjSaQo1qTa0k54yFQ) 密码: msh7
