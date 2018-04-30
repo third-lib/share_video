@@ -2,13 +2,13 @@
 资源从网上长期收集整理而来，方便冥冥之中寻觅各种学习视频的同伴提供一个聚集地。如有任何问题，请联系QQ:1213423761   
 
 ### 2018-04-30 视频更新列表   
-*   1. 系统学习docker 践行DevOps [官网](https://pan.baidu.com/s/1hRp7dl4QtfCl4phXOIgxqQ) 密码: 69ki   
+*   1. 系统学习docker 践行DevOps [官网](https://pan.baidu.com/s/1hRp7dl4QtfCl4phXOIgxqQ) 密码: 69ki   
 *   2.易语言-猪啵啵易语言第三期视频教程 [官网](https://pan.baidu.com/s/1KT08528m1MUF3h1_rZMfKQ) 密码: u9ah   
-*   3.微信小游戏入门与实战 刷爆朋友圈 [官网](https://pan.baidu.com/s/1akcapasiTb65eH9ErZkCkQ) 密码: jtss
+*   3.微信小游戏入门与实战 刷爆朋友圈 [官网](https://pan.baidu.com/s/1akcapasiTb65eH9ErZkCkQ) 密码: jtss
 *   4.知乎大神萧井陌WEB前端培训班 [官网](https://pan.baidu.com/s/12JMw3jMZ5Lcjdm3LecTf7Q) 密码: a549
 *   5.React react-router react-native flux webpack综合讲解全套视频教程 [官网](https://pan.baidu.com/s/1kdylMJRd-Eh7TvJnMo5cXg)  密码: cnf8
 *   6.揭秘一线互联网企业 前端JavaScript高级面试 [官网]( https://pan.baidu.com/s/1kUVrM0VkCMkjlBfYxXIzVg) 密码: g7fp
-*   7.慕课网 Vue 2.0 移动端音乐App [官网](https://pan.baidu.com/s/1MBOqQBGIZ1UokugEm7cRTA) 密码: jjv8
+*   7.慕课网 Vue 2.0 移动端音乐App [官网](https://pan.baidu.com/s/1MBOqQBGIZ1UokugEm7cRTA) 密码: jjv8
 *   8.Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲 [官网](https://pan.baidu.com/s/14XLArOVx-ooZo1PlJ_Q6Aw) 密码: denu
 *   9.Vue2.5开发去哪儿网App 从零基础入门到实战项目 [官网](https://pan.baidu.com/s/17p_1cgkMB6hql0TtIOuNGg) 密码: gmaa
 *   10.Python轻量级Web框架 Flask 基础入门+实战 [官网]( https://pan.baidu.com/s/1PjSdixRT2M6sX_eQzlj93g) 密码: k4da
