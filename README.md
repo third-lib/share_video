@@ -1,5 +1,22 @@
-# 视频学习资源共享 (更新于：2018年3月22日)
+# 视频学习资源共享 (更新于：2018年4月30日)
 资源从网上长期收集整理而来，方便冥冥之中寻觅各种学习视频的同伴提供一个聚集地。如有任何问题，请联系QQ:1213423761   
+
+### 2018-04-30 视频更新列表   
+*   1. 系统学习docker 践行DevOps [官网](https://pan.baidu.com/s/1hRp7dl4QtfCl4phXOIgxqQ) 密码: 69ki   
+*   2.易语言-猪啵啵易语言第三期视频教程 [官网](https://pan.baidu.com/s/1KT08528m1MUF3h1_rZMfKQ) 密码: u9ah   
+*   3.微信小游戏入门与实战 刷爆朋友圈 [官网](https://pan.baidu.com/s/1akcapasiTb65eH9ErZkCkQ) 密码: jtss
+*   4.知乎大神萧井陌WEB前端培训班 [官网](https://pan.baidu.com/s/12JMw3jMZ5Lcjdm3LecTf7Q) 密码: a549
+*   5.React react-router react-native flux webpack综合讲解全套视频教程 [官网](https://pan.baidu.com/s/1kdylMJRd-Eh7TvJnMo5cXg)  密码: cnf8
+*   6.揭秘一线互联网企业 前端JavaScript高级面试 [官网]( https://pan.baidu.com/s/1kUVrM0VkCMkjlBfYxXIzVg) 密码: g7fp
+*   7.慕课网 Vue 2.0 移动端音乐App [官网](https://pan.baidu.com/s/1MBOqQBGIZ1UokugEm7cRTA) 密码: jjv8
+*   8.Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲 [官网](https://pan.baidu.com/s/14XLArOVx-ooZo1PlJ_Q6Aw) 密码: denu
+*   9.Vue2.5开发去哪儿网App 从零基础入门到实战项目 [官网](https://pan.baidu.com/s/17p_1cgkMB6hql0TtIOuNGg) 密码: gmaa
+*   10.Python轻量级Web框架 Flask 基础入门+实战 [官网]( https://pan.baidu.com/s/1PjSdixRT2M6sX_eQzlj93g) 密码: k4da
+*   11.知乎萧井陌大神Python Flask实战课程 [官网]( https://pan.baidu.com/s/105I-VKq8oynQrdMQfpYAQw) 密码: vmr2
+*   12.Python3爬虫实战 [官网](https://pan.baidu.com/s/1faRAfveBin-8BvB_ympvsg) 密码: 14fy
+*   13.ZooKeeper分布式专题与Dubbo微服务入门 [官网](https://pan.baidu.com/s/19VDvDwHrky7tId0tEpTikA) 密码: 8h98
+*   14.Java并发编程与高并发解决方案 [官网](https://pan.baidu.com/s/1D_ugggxTr5COC_Dl-2T8Lw) 密码: rwtj
+*   15.Android逆向数据分析 [官网](https://pan.baidu.com/s/19gSDnPSewlF78oBlmpDpiw) 密码: q542
 
 ### 目录
 
@@ -23,6 +40,7 @@
 *   [面试](#interviewing)
 *   [思维导图](#mindMapping)
 *   [运营](#operation)
+*   [易语言](#yyy)
 
 
 
@@ -44,6 +62,9 @@
 *   IT段子手详解MyBatis遇到Spring 秒学Java SSM开发大众点评。[下载地址](https://pan.baidu.com/s/11fEc_vO4bCOG-jGR48mO3A) 密码: qj91
 *   Java大牛 带你从0到上线开发企业级电商项目。[下载地址](https://pan.baidu.com/s/1X64qHEJu2CJY8BF_7lQDRQ) 密码: dc89
 *   Java Spring带前后端开发完整电商平台。[下载地址](https://pan.baidu.com/s/10nSK1C6AT2MN9VQhhj4znw) 密码: egws
+*   ZooKeeper分布式专题与Dubbo微服务入门 [官网](https://pan.baidu.com/s/19VDvDwHrky7tId0tEpTikA) 密码: 8h98
+*   Java并发编程与高并发解决方案 [官网](https://pan.baidu.com/s/1D_ugggxTr5COC_Dl-2T8Lw) 密码: rwtj
+
 
 ###  <a name="php"></a>PHP
 *   李炎恢第四季视频。[下载地址](https://pan.baidu.com/s/103Ne8RSNGUoYE9rPDokE2w) 密码: 5dui
@@ -74,6 +95,9 @@
 *   Python升级3.6 强力Django+杀手级Xadmin打造在线教育平台。[下载地址](https://pan.baidu.com/s/1OmULUZefmYX2xcG-uFuF1A) 密码: anfb
 *   Android 专项测试 Python篇。[下载地址](https://pan.baidu.com/s/12w3s3CFKEGUjELT_BrvlLQ) 密码: 4vth
 *   Python高效编程技巧实战。[下载地址](https://pan.baidu.com/s/18XAkfx8jpdh6NVvKVlMwBg) 密码: rnai
+*   Python轻量级Web框架 Flask 基础入门+实战 [官网]( https://pan.baidu.com/s/1PjSdixRT2M6sX_eQzlj93g) 密码: k4da
+*   知乎萧井陌大神Python Flask实战课程 [官网]( https://pan.baidu.com/s/105I-VKq8oynQrdMQfpYAQw) 密码: vmr2
+*   Python3爬虫实战 [官网](https://pan.baidu.com/s/1faRAfveBin-8BvB_ympvsg) 密码: 14fy
 
 ###  <a name="web"></a>Web
 *   Ionic组件项目实战 飞速上手的跨平台App开发_课程。[下载地址](https://pan.baidu.com/s/17ZBG9Bn0XdJoRQlBDS-oOQ) 密码: 3q9h
@@ -108,12 +132,18 @@
 *   掌握React Native技术转型随意切换。[下载地址](https://pan.baidu.com/s/1-2pPwhq1FjaKfC-id4iFtA) 密码: xce9
 *   响应式开发一招致胜。[下载地址](https://pan.baidu.com/s/1QYDFp7CGRuxkgnduEyFo4w) 密码: cuhw
 *   组件方式开发 Web App全站。[下载地址](https://pan.baidu.com/s/18GyVf5ob1bSX53GKUx32Gg) 密码: 9nwd
+*   知乎大神萧井陌WEB前端培训班 [官网](https://pan.baidu.com/s/12JMw3jMZ5Lcjdm3LecTf7Q) 密码: a549  
+*   React react-router react-native flux webpack综合讲解全套视频教程 [官网](https://pan.baidu.com/s/1kdylMJRd-Eh7TvJnMo5cXg)  密码: cnf8   
+*   揭秘一线互联网企业 前端JavaScript高级面试 [官网]( https://pan.baidu.com/s/1kUVrM0VkCMkjlBfYxXIzVg) 密码: g7fp   
 
 ###  <a name="vue"></a>Vue
 *   开发微信全家桶项目 Vue Node MongoDB高级技术栈全覆盖。[下载地址](https://pan.baidu.com/s/16inGfhwjsybM4Jbs34YheQ) 密码: s3z9
 *   Get全栈技能点 Vue2.0 Node.js MongoDB 打造商城系统。[下载地址](https://pan.baidu.com/s/1TrYjJPVYCE_dCmaZQglVSg) 密码: f8qg
 *   最容易上手的Vue 2.0入门实战教程。[下载地址](https://pan.baidu.com/s/1FudqldIDUVt0_2b9LOrGmg) 密码: 5wxe
 *   Vue.js高仿饿了么外卖App 1.0到2.0版本完美升级。[下载地址]( https://pan.baidu.com/s/1p077-ja-ZZKuehC7bfYQTw) 密码: r528
+*   慕课网 Vue 2.0 移动端音乐App [官网](https://pan.baidu.com/s/1MBOqQBGIZ1UokugEm7cRTA) 密码: jjv8
+*   Vue核心技术 Vue+Vue-Router+Vuex+SSR实战精讲 [官网](https://pan.baidu.com/s/14XLArOVx-ooZo1PlJ_Q6Aw) 密码: denu
+*   Vue2.5开发去哪儿网App 从零基础入门到实战项目 [官网](https://pan.baidu.com/s/17p_1cgkMB6hql0TtIOuNGg) 密码: gmaa
 
 ###  <a name="node"></a>Node.js
 *   智能社node。[下载地址](https://pan.baidu.com/s/1G8q7vr4hT0y5gtTitalcvQ) 密码: jdty
@@ -135,6 +165,7 @@
 *   组件化封装思想实战Android App。[下载地址](https://pan.baidu.com/s/1jT6zUoXmZKOprcYL1lYyHg) 密码: u6mw
 *   带领新手快速开发Android App。[下载地址](https://pan.baidu.com/s/1AYXZ9qrv-eRAC_O58yH2Rg) 密码: ykru
 *   Android架构师之路 网络层架构设计与实战。[下载地址](https://pan.baidu.com/s/1lsi_3dy5mR02ResMNiGmnA) 密码: 4nrm
+*   Android逆向数据分析 [官网](https://pan.baidu.com/s/19gSDnPSewlF78oBlmpDpiw) 密码: q542
 
 ###  <a name="mysql"></a>Mysql
 *   高性能可扩展MySQL数据库设计及架构优化 电商项目。[下载地址](https://pan.baidu.com/s/1YdGbQfWwvaw6KeaBTjV5oQ) 密码: p3uh
@@ -147,6 +178,8 @@
 ###  <a name="wechat"></a>微信小程序
 *   微信小程序开发视频教程整理。[下载地址](https://pan.baidu.com/s/1ABimMWZpU6nDjKv6xPG2pw) 密码: 763i
 *   微信小程序入门与实战 常用组件API开发技巧项目实战。[下载地址](https://pan.baidu.com/s/16AiwHak6ILNchDoEAn0sSQ) 密码: m1sa
+*   微信小游戏入门与实战 刷爆朋友圈 [官网](https://pan.baidu.com/s/1akcapasiTb65eH9ErZkCkQ) 密码: jtss
+*   
 
 ###  <a name="test"></a>测试
 *   Android自动化测试实战 Java篇 主流工具 框架 脚本。[下载地址](https://pan.baidu.com/s/1b-DlPgCKdSC4kHCCqO5b1w) 密码: xtc6
@@ -154,6 +187,7 @@
 ###  <a name="devops"></a>运维
 *   Mysql DBA 运维。[下载地址](https://pan.baidu.com/s/18nL9pPV5tjXMbn3_BxPA6w) 密码: grw4
 *   shell高级【2016最新】。[下载地址](https://pan.baidu.com/s/1qt8AGhsnujvMbeQAi5p4Sw )密码: px3n
+*   系统学习docker 践行DevOps [官网](https://pan.baidu.com/s/1hRp7dl4QtfCl4phXOIgxqQ) 密码: 69ki   
 
 ###  <a name="datastructure"></a>算法、数据结构
 *   看得见的算法 7个经典应用诠释算法精髓。[下载地址](https://pan.baidu.com/s/1CwaKFqjSaQo1qTa0k54yFQ) 密码: msh7
@@ -173,6 +207,9 @@
 
 ###  <a name="mindMapping"></a>思维导图
 *   静秋姐姐手把手教你做运营。[下载地址](https://pan.baidu.com/s/19h_vBMjAuVD2_nuXK2Dptg) 密码: ewtq
+
+### <a name="yyy"></a>易语言
+*   易语言-猪啵啵易语言第三期视频教程 [官网](https://pan.baidu.com/s/1KT08528m1MUF3h1_rZMfKQ) 密码: u9ah  
 
 [![](https://github.com/shiyuan17/share_video/blob/master/images/01.JPG)](https://github.com/shiyuan17/share_video/blob/master/images/01.JPG)
 [![](https://github.com/shiyuan17/share_video/blob/master/images/02.JPG)](https://github.com/shiyuan17/share_video/blob/master/images/02.JPG)
