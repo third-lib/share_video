@@ -1,5 +1,8 @@
 # 视频学习资源共享 (更新于：2018年4月30日)
-资源从网上长期收集整理而来，方便冥冥之中寻觅各种学习视频的同伴提供一个聚集地。如有任何问题，请联系QQ:1213423761   
+资源从网上长期收集整理而来，方便冥冥之中寻觅各种学习视频的同伴提供一个聚集地。如有任何问题，请联系QQ:1213423761    
+资源自取，欢迎赞赏：   
+[![](https://github.com/shiyuan17/share_video/blob/master/images/01.JPG)](https://github.com/shiyuan17/share_video/blob/master/images/01.JPG)
+[![](https://github.com/shiyuan17/share_video/blob/master/images/02.JPG)](https://github.com/shiyuan17/share_video/blob/master/images/02.JPG)
 
 ### 2018-04-30 视频更新列表   
 *   1.系统学习docker 践行DevOps [官网](https://pan.baidu.com/s/1hRp7dl4QtfCl4phXOIgxqQ) 密码: 69ki   
